@@ -1,0 +1,1 @@
+export const IMAGEN_CERRAR = require('../img/CERRAR.png');
